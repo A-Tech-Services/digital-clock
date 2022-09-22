@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&display=swap');
+
+
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: 10px solid #df67219a;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 50px #df6721cb;
+}
+
+.myClockDisplay{
+    font-family: 'Bungee Spice', cursive;
+    font-size: 5em;
+}
